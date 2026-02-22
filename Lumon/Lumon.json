@@ -1,0 +1,94 @@
+{
+  "dark": {
+    "mPrimary": "#88AAC6",
+    "mOnPrimary": "#0E171E",
+    "mSecondary": "#0A3C79",
+    "mOnSecondary": "#0E171E",
+    "mTertiary": "#6D8C91",
+    "mOnTertiary": "#0E171E",
+    "mError": "#9B4D40",
+    "mOnError": "#0E171E",
+    "mSurface": "#0E171E",
+    "mOnSurface": "#D6E3EC",
+    "mSurfaceVariant": "#11304F",
+    "mOnSurfaceVariant": "#88AAC6",
+    "mOutline": "#BD9A5A",
+    "mShadow": "#0E171E",
+    "mHover": "#6D8C91",
+    "mOnHover": "#0E171E",
+    "terminal": {
+      "foreground": "#88AAC6",
+      "background": "#0E171E",
+      "selectionFg": "#88AAC6",
+      "selectionBg": "#CFDED7",
+      "cursorText": "#0E171E",
+      "cursor": "#88AAC6",
+      "normal": {
+        "black": "#0E171E",
+        "red": "#651607",
+        "green": "#6B8C81",
+        "yellow": "#7b6727",
+        "blue": "#0A3C79",
+        "magenta": "#F17983",
+        "cyan": "#C2D0DB",
+        "white": "#E6F0F1"
+      },
+      "bright": {
+        "black": "#3F4738",
+        "red": "#9B4D40",
+        "green": "#678A76",
+        "yellow": "#BD9A5A",
+        "blue": "#89aec8",
+        "magenta": "#D29292",
+        "cyan": "#0A3C79",
+        "white": "#88AAC6"
+      }
+    }
+  },
+  "light": {
+    "mPrimary": "#11304F",
+    "mOnPrimary": "#D6E3EC",
+    "mSecondary": "#689d6a",
+    "mOnSecondary": "#D6E3EC",
+    "mTertiary": "#458588",
+    "mOnTertiary": "#D6E3EC",
+    "mError": "#cc241d",
+    "mOnError": "#D6E3EC",
+    "mSurface": "#D6E3EC",
+    "mOnSurface": "#11304F",
+    "mSurfaceVariant": "#ebddb2",
+    "mOnSurfaceVariant": "#7c6f64",
+    "mOutline": "#bdae93",
+    "mShadow": "#d5c4a1",
+    "mHover": "#458588",
+    "mOnHover": "#D6E3EC",
+    "terminal": {
+      "foreground": "#11304F",
+      "background": "#D6E3EC",
+      "selectionFg": "#D6E3EC",
+      "selectionBg": "#11304F",
+      "cursorText": "#625e5c",
+      "cursor": "#11304F",
+      "normal": {
+        "black": "#D6E3EC",
+        "red": "#cc241d",
+        "green": "#98971a",
+        "yellow": "#d79921",
+        "blue": "#458588",
+        "magenta": "#b16286",
+        "cyan": "#689d6a",
+        "white": "#7c6f64"
+      },
+      "bright": {
+        "black": "#928374",
+        "red": "#9d0006",
+        "green": "#79740e",
+        "yellow": "#b57614",
+        "blue": "#076678",
+        "magenta": "#8f3f71",
+        "cyan": "#427b58",
+        "white": "#11304F"
+      }
+    }
+  }
+}
